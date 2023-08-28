@@ -3,6 +3,8 @@
 Calculadora desenvolvida puramente em JavaScript, sem uso de bibliotecas.
 <br>
 
+⚠️ CONTÉM BUGS ⚠️
+
 Para este projeto, utilizei as seguintes tecnologias 👩🏿‍💻:
 <ul>
   <li><strong>HTML5 📙</strong></li>
