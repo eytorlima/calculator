@@ -16,7 +16,7 @@ Para este projeto, utilizei as seguintes tecnologias 👩🏿‍💻:
 </ul> 
 <br>
 
-🔗 <a href="https://eytorlima.github.io/calculator/" target="_blank">Veja aqui</a> o resultado do projeto! 🔗
+🔗 <a href="https://eytorsousa.github.io/calculator/" target="_blank">Veja aqui</a> o resultado do projeto! 🔗
 <br>
 
 
